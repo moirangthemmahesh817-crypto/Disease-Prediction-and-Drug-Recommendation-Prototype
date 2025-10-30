@@ -1,1 +1,0 @@
-# Disease-Prediction-and-Drug-Recommendation-Prototype
